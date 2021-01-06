@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4206da570634b0e42afd9fc6e403ee01
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - camera: {instanceID: 0}
+  - sphere: {fileID: 4394826019829092952, guid: b6771b2ba6d28e94f87f16f6c3796026,
+      type: 3}
+  - anchorWorldTransform: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
